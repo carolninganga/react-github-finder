@@ -15,7 +15,7 @@ npm i
 
 
 ## Contributing 
-Caroline Ninganga and Brad Travesy
+Caroline Ninganga
 
 ## License
 
