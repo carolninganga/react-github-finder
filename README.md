@@ -10,9 +10,18 @@ An application built to help the user search for github repos and also be direct
 
 To install necessary dependencies, run the following command:
 npm i
+some install dependecies include
+- npm i axios
+- npm i react script
 
 ## Usage
 
+npm start
+Runs the app in the development mode.
+Open http://localhost:3000
+
+npm run build
+Builds the app for production to the build folder.
 
 ## Contributing 
 Caroline Ninganga
