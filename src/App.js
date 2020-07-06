@@ -32,7 +32,7 @@ class App extends Component {
     this.setState({ users: res.data.items, loading: false });
   };
 
-  //Get single Github user 
+  //Get single Github user information
   getUser = async (username) =>  {
     this.setState({ loading: true });
 
@@ -48,7 +48,7 @@ getUserRepos = async (username) =>  {
   this.setState({ repos: res.data, loading: false });
 };
   
-  //clear users from state
+  //clear all users from state
   clearUsers = () => this.setState({ users: [], loading: false });
 
   setAlert = (msg, type) =>  {
