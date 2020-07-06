@@ -1,3 +1,4 @@
+![Untitled_ Jul 6, 2020 12_25 PM](https://user-images.githubusercontent.com/33443452/86616695-38ef0c00-bf84-11ea-9fd4-41790e814760.gif)
 
 # Github Finder
 
